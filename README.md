@@ -1,6 +1,6 @@
 # The Luna-1 Moon Crater Landmarks Dataset
 ### [Project Page](https://droneslab.github.io/mars/) | [Paper (Coming Soon)]() | [Download Link](https://drive.google.com/file/d/1lvsNRw5uc-2Q5TwGDgrChn8w27safuQp/view?usp=sharing)
-This is the supporting dataset to the ECCV 2024 paper: ***MARs: Multi-view Attention Regularizations for Patch-based Feature Recognition of Space Terrain***. It contains 5,067 cropped images of craters on the surface of the Moon, generated in the Blender software using publicly available NASA mission data. Also included are 2,109 replicate orbital navigation frames from real-world Lunar Reconnaissance Orbiter (LRO) spacecraft poses with ground-truth bounding box annotations. For more details, please check out the paper.
+This is the supporting dataset to the ECCV 2024 paper: ***MARs: Multi-view Attention Regularizations for Patch-based Feature Recognition of Space Terrain***. It contains 5,067 cropped images of craters on the surface of the Moon, generated in the Blender software using publicly available NASA mission data. Also included are 2,161 replicate orbital navigation frames from real-world Lunar Reconnaissance Orbiter (LRO) spacecraft poses with ground-truth bounding box annotations. For more details, please check out the paper.
 
 <p float="left">
   <img src="./assets/craters.png" width="412" />
@@ -16,8 +16,8 @@ This is the supporting dataset to the ECCV 2024 paper: ***MARs: Multi-view Atten
 │                                                                                               
 ├── lro_navigation/         # Replicate LRO navigation frames and supporting data
 |   ├── nav_images/         # Navigation frames
-│   |   └── 1.png
-|   |   └── 2.png
+│   |   └── 0.png
+|   |   └── 1.png
 |   |   └── ...
 |   ├── poses/              # LRO spacecraft pose data used for navigation frame generation
 |   |   └── LROCWAC_22Sep06_000000_6H_10S_poses.csv             # Raw poses
