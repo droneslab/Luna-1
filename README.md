@@ -35,7 +35,6 @@ This is the supporting dataset to the ECCV 2024 paper: ***MARs: Multi-view Atten
 - Blender camera FOV:   39.6
 
 ## Citation
-If you use this dataset in your work, please cite with the bibtex entry below:
 ```
 @inproceedings{chase2024mars,
   title={MARs: Multi-view Attention Regularizations for Patch-based Feature Recognition of Space Terrain},
