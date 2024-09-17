@@ -25,6 +25,7 @@ This is the supporting dataset to the ECCV 2024 paper: ***MARs: Multi-view Atten
 |   |   └── blender_world_poses.txt                             # Blender poses
 |   └── annotations.txt     # Bounding box nav image annotations
 |   └── view_boxes.py       # Script for visualizing bounding box annotations
+|   └── nav_indices.pk      # Pickle array of crater indices seen during the navigation
 ```
 
 ## Miscellaneous Details
