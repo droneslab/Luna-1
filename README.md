@@ -1,5 +1,5 @@
 # The Luna-1 Moon Craters Dataset
-### [Project Page](https://droneslab.github.io/mars/) | [Paper (Coming Soon)]() | [Download Link](https://drive.google.com/file/d/1lvsNRw5uc-2Q5TwGDgrChn8w27safuQp/view?usp=sharing)
+### [Project Page](https://droneslab.github.io/mars/) | [Paper (Coming Soon)]() | [Download Link](https://drive.google.com/file/d/1fS2PQ3w0DEHdUgAJxjU4o8Ku4sErvMa2/view?usp=sharing)
 This is the supporting dataset to the ECCV 2024 paper: ***MARs: Multi-view Attention Regularizations for Patch-based Feature Recognition of Space Terrain***. It contains 5,067 cropped images of craters on the surface of the Moon, generated in the Blender software using publicly available NASA mission data. Also included are 2,161 replicate orbital navigation frames from real-world Lunar Reconnaissance Orbiter (LRO) spacecraft poses with ground-truth bounding box annotations. For more details, please check out the paper.
 
 <p float="left">
